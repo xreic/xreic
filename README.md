@@ -1,7 +1,7 @@
 # 👋 What's up, I'm Eric.
 🕹️ I enjoy playing video games and I sometimes try to write programs to help me with doing things in those video games.\
-Currently, I'm working on [Mapler](https://github.com/xreic/Mapler), a simple tracker app for Maplestory tasks and actions to complete.\
-This is my first foray into working with Electron and it's pretty cool. Generally, I work on this whenever I want to.
+Latest project: [Mapler](https://github.com/xreic/Mapler), a simple tracker app for Maplestory tasks and actions to complete.\
+Planning on doing a web app version of Mapler, because having to re-install a program is cringe.\
 
 😜 Shameless plug. Find me on [LinkedIn](https://www.linkedin.com/in/-ericlau/).
 
