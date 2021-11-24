@@ -1,7 +1,6 @@
 # 👋 What's up, I'm Eric.
 🕹️ I enjoy playing video games and I sometimes try to write programs to help me with doing things in those video games.\
-Latest project: [Mapler](https://github.com/xreic/Mapler), a simple tracker app for Maplestory tasks and actions to complete.\
-Planning on doing a web app version of Mapler, because having to re-install a program is cringe.
+Latest project: [guild-bot](https://github.com/xreic/guild-bot), a Discord bot that interfaces with the Sheets API to help me with some data entry.\
 
 😜 Shameless plug. Find me on [LinkedIn](https://www.linkedin.com/in/-ericlau/).
 
@@ -10,10 +9,10 @@ Planning on doing a web app version of Mapler, because having to re-install a pr
 - JavaScript
 - React.js, Redux, Next.js
 - Node.js, Express
-- Apollo GraphQL, Postgraphile
+- Apollo GraphQL, Postgraphile, Electron
 - PostgreSQL, MySQL, MongoDB, Cloud Firestore
 - AWS, Google Firebase
-- 🌱 Currently learning and working with Electron
+- 🌱 Currently working with: Discord.js and Sheets API
 
 ## 🎥 Demos
 
