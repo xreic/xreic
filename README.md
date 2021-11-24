@@ -1,6 +1,7 @@
 # 👋 What's up, I'm Eric.
 🕹️ I enjoy playing video games and I sometimes try to write programs to help me with doing things in those video games.\
-Latest project: [guild-bot](https://github.com/xreic/guild-bot), a Discord bot that interfaces with the Sheets API to help me with some data entry.
+🚀 Latest project: [guild-bot](https://github.com/xreic/guild-bot)\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Discord bot that interfaces with the Sheets API to help me with some data entry.
 
 😜 Shameless plug. Find me on [LinkedIn](https://www.linkedin.com/in/-ericlau/).
 
