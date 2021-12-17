@@ -12,8 +12,9 @@
 - Node.js, Express
 - Apollo GraphQL, Postgraphile, Electron
 - PostgreSQL, MySQL, MongoDB, Cloud Firestore
-- AWS, Google Firebase
-- 🌱 Currently working with: Discord.js and Sheets API
+- AWS, Google Firebase, Sheets API
+- Discord.js
+- 🌱 Currently working with: Docusaurus
 
 ## 🎥 Demos
 
